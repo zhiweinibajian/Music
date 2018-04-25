@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # music-demo
 
 > vue demo about music
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Music
+Vue音乐app
+>>>>>>> f72b21e7743f54c7e07fdd40fa0f31357d2ec6db
